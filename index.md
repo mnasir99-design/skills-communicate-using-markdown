@@ -7,3 +7,9 @@
 # Learning how to add an image
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 #### Hope it works!
+
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+
+var myVar = "Hello, world!";
